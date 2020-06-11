@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our learning slide!"
 ---
 This is SimoniDaRos slide 02
